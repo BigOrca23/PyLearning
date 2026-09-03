@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+
+# CS50P: Harvard's honesty policy prohibits publishing problem set
+# solutions publicly, even in the free/non-certificate track.
+# Keep this folder local-only, or move it to its own private repo.
+01-cs50p/
